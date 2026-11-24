@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#10151d"><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23ce1141'/%3E%3Ctext x='32' y='45' font-family='Arial' font-size='42' font-weight='bold' fill='white' text-anchor='middle'%3EC%3C/text%3E%3C/svg%3E"><title>CHICAGO | Football Manager 1.1</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="onboarding" class="onboarding hidden">
+ <div class="setup-card">
+  <div class="brand-mark">C</div><div class="eyebrow">FOOTBALL MANAGEMENT SIMULATOR</div>
+  <h1>Construye tu<br><span>propio legado.</span></h1><p class="muted">Tu historia comienza el 1 de enero de 2027.</p>
+  <div class="setup-progress"><i></i></div>
+  <section class="setup-step" data-step="1">
+   <label class="field-label">ELIGE TU LIGA</label>
+   <div class="league-grid" id="leagueChoices"></div>
+   <p class="hint">Cada liga tiene una dificultad y una división inicial diferente.</p>
+   <button class="primary full" id="stepLeague">Continuar <b>→</b></button>
+  </section>
+  <section class="setup-step hidden" data-step="2">
+   <label class="field-label">IDENTIDAD DEL CLUB</label>
+   <div class="logo-upload"><div id="logoPreview" class="club-logo big">?</div><label class="upload-btn">Subir escudo<input id="logoFile" type="file" accept="image/*"></label></div>
+   <label class="field-label">NOMBRE DEL CLUB</label><input id="clubName" class="input" maxlength="26" placeholder="Ej. Neptun City">
+   <label class="field-label">NOMBRE DEL ENTRENADOR</label><input id="coachName" class="input" maxlength="24" placeholder="Tu nombre">
+   <button class="primary full" id="stepClub">Continuar <b>→</b></button>
+  </section>
+  <section class="setup-step hidden" data-step="3">
+   <label class="field-label">ELIGE A TU CAPITÁN</label><p class="hint">Solo puedes elegir un jugador de D1 · Chicago Bulls. Esta elección es permanente.</p>
+   <div id="captainChoices" class="captain-list"></div>
+   <button class="primary full" id="startCareer">Comenzar carrera <b>→</b></button>
+  </section>
+  <div class="setup-footer">CHICAGO MANAGER <span>•</span> TEMPORADA 2027</div>
+ </div>
+</div>
+<div id="app" class="app hidden">
+ <aside class="sidebar">
+  <div class="side-brand"><div class="brand-mark small">C</div><div><b>CHICAGO</b><small>FOOTBALL MANAGER</small></div></div>
+  <div class="club-mini"><div id="sideLogo" class="club-logo">C</div><div class="club-mini-text"><b id="sideClub">Mi club</b><small id="sideDivision">División</small></div><span class="online-dot"></span></div>
+  <nav id="mainNav">
+   <div class="nav-caption">GESTIÓN</div>
+   <button class="nav-item active" data-page="home"><span>⌂</span> Inicio</button>
+   <button class="nav-item" data-page="squad"><span>♙</span> Plantilla</button>
+   <button class="nav-item" data-page="calendar"><span>▦</span> Calendario</button>
+   <button class="nav-item" data-page="tactics"><span>⚑</span> Tácticas</button>
+   <button class="nav-item" data-page="market"><span>⇄</span> Mercado de fichajes</button>
+   <button class="nav-item" data-page="training"><span>↗</span> Entrenamiento</button>
+   <button class="nav-item" data-page="competitions"><span>♜</span> Competiciones</button>
+   <button class="nav-item" data-page="inbox"><span>✉</span> Bandeja <i id="offerBadge" class="nav-badge hidden">0</i></button>
+   <div class="nav-caption secondary">CLUB</div>
+   <button class="nav-item" data-page="stadium"><span>▤</span> Estadio</button><button class="nav-item" data-page="finances"><span>＄</span> Finanzas</button>
+   <button class="nav-item" data-page="settings"><span>⚙</span> Configuración</button>
+  </nav>
+  <div class="sidebar-bottom">
+   <button class="profile-link" data-page="profile"><div id="profileAvatar" class="avatar">N</div><div><b id="profileCoach">Entrenador</b><small>Ver perfil</small></div><span>↗</span></button>
+   <div class="side-version">CHICAGO ENGINE <span>v1.1.0</span></div>
+  </div>
+ </aside>
+ <main class="main">
+  <header class="topbar"><div><div class="eyebrow" id="topEyebrow">CENTRO DE MANDO</div><h2 id="pageTitle">Inicio</h2></div>
+   <div class="top-actions"><div class="season-chip"><span class="live-dot"></span><span id="topDate">01 ENE 2027</span></div><button id="musicToggle" class="icon-btn" title="Música">♫</button><input id="topMusicVolume" class="top-volume" type="range" min="0" max="100" value="32" title="Volumen de música"><button id="soundToggle" class="icon-btn" title="Sonidos">◖</button><button id="mobileMenu" class="icon-btn mobile-only">☰</button></div>
+  </header>
+  <div id="pageContent" class="content"></div>
+  <footer>CHICAGO MANAGER <span>·</span> Hecho por <b>Neptunzinho</b> <span>·</span> Discord: <b>andresneptunzinho</b></footer>
+ </main>
+</div>
+<div id="pageTransition" class="page-transition"><img src="logochicago.png" alt="Chicago"><span>CHICAGO FOOTBALL MANAGER</span></div><audio id="songPlayer" preload="auto"></audio><div id="toastArea" class="toast-area"></div>
+<div id="modalRoot"></div>
+<script src="assets/players.js"></script><script src="assets/songs.js"></script><script src="app.js"></script>
+</body></html>

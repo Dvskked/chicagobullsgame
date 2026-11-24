@@ -1,0 +1,100 @@
+============================================================
+CHICAGO FOOTBALL MANAGER 1.1 — YA DISPONIBLE
+============================================================
+
+¡El proyecto está listo para jugar! Un simulador de fútbol
+gestión completa, offline y en español, donde construyes tu
+propio legado desde la división que elijas.
+
+------------------------------------------------------------
+¿CÓMO LANZAR EL JUEGO?
+------------------------------------------------------------
+Opción rápida:
+  1. Abre la carpeta del juego.
+  2. Haz doble clic en "index.html".
+  3. Elige liga, escribe club y entrenador, elige capitán y
+     pulsa "Iniciar carrera".
+
+Opción recomendada (con música local):
+  1. Abre una terminal en la carpeta del juego.
+  2. Escribe:  node server.js
+  3. Abre en el navegador:  http://localhost:3000
+
+------------------------------------------------------------
+¿QUÉ TRAE EL JUEGO?
+------------------------------------------------------------
+• 10 ligas reales (Colombia, Argentina, Brasil, México,
+  España, Portugal, Inglaterra, Italia, Rusia y MLS) con
+  clubes de D1, D2 y D3 y escudos generados por colores.
+• Plantilla inicial de 6 jugadores con valoraciones moderadas
+  (máximo 82) y posiciones aleatorias que cubren portero,
+  media, defensa y delantero.
+• Partidos 4 contra 4 con crónica en directo, balón en movimiento
+  y 10 decisiones por encuentro (ataque/defensa) que cambian
+  el resultado según tus atributos y la superioridad.
+• Calendario día a día con AVANCE, PAUSA, REANUDAR, DETENER y
+  "Saltar al partido".
+• Moral del equipo mostrada siempre como xx,xx% (ej. 75,00%).
+• Mercado de fichajes con búsqueda global: aparece cualquier
+  jugador, pero solo se puede negociar con los 3 transferibles
+  del día. Recomendaciones ajustadas a la media de tu plantilla.
+• Copa nacional de verdad: Copa Colombia, Copa Argentina,
+  Copa do Brasil, FA Cup, Coppa Italia... con los 30 clubes de
+  D1/D2/D3 y cuadro de eliminación directa que se construye
+  ronda a ronda a medida que avanzan los ganadores.
+• Finanzas en BC (Bulls Coins): invierte 10.000 BC o más a
+  1/2/3/6 meses, gana 10%, 12% o 14% según el monto (+1% por
+  mes extra) y cobra automáticamente al vencer. Otros clubes
+  también invierten en el tuyo y debes devolver el capital.
+• Entrenamiento semanal, tácticas, ofertas, bandeja de entrada,
+  noticias, estadio mejorable, equipaciones, perfil y ajustes.
+• Guardado automático en el navegador y migración de partidas
+  antiguas sin perder equipos ni resultados.
+
+------------------------------------------------------------
+¿CÓMO AVANZAR EN LA CARRERA?
+------------------------------------------------------------
+1. CONFIGURA: elige liga, nombre del club, entrenador y capitán
+   de D1. Pulsa "Iniciar carrera".
+2. PREPARA: ve a Tácticas y coloca tus 4 titulares
+   (1 GK, 1 AM, 1 DM, 1 FWD). Sin esto no puedes jugar.
+3. AVANZA: en Inicio usa "Simular días" para llegar al próximo
+   partido. Puedes PAUSAR, REANUDAR, DETENER o saltar directo
+   al día del encuentro.
+4. JUEGA: pulsa "Jugar siguiente partido". Responde las
+   10 decisiones que aparezcan o usa "Completar simulación".
+   Ganas BC por taquilla y sube/baja la moral.
+5. MEJORA: ficha en Mercado solo a los transferibles del día,
+   entrena a tus jugadores, negocia ofertas y refuerza el
+   estadio para generar más ingresos.
+6. COPA: en Competiciones verás tu cuadro. Solo se juega la
+   ronda actual; al ganar, se genera la siguiente. Perder
+   significa eliminación directa.
+7. INVIERTE: en Finanzas elige club, monto y plazo. El cobro
+   llega solo cuando venza. Vigila las inversiones recibidas.
+
+------------------------------------------------------------
+CONTROLES RÁPIDOS
+------------------------------------------------------------
+• Menú lateral: cambia entre las 12 secciones.
+• Botones superiores: fecha, bandeja, volumen y música.
+• "Simular días" → avanza al siguiente partido.
+• "Saltar al partido" → llega directo al día del encuentro.
+• "❚❚ Pausar" / "▶ Reanudar" / "■ Detener" → control total
+  del avance automático.
+• "Completar simulación" → resuelve el partido sin esperar.
+• Tecla F12 y atajos de desarrollo están bloqueados.
+
+------------------------------------------------------------
+NOTAS
+------------------------------------------------------------
+• La moneda es BC (Bulls Coins). Ya no aparece el texto largo.
+• La partida se guarda sola en localStorage; si un guardado
+  queda corrupto, el juego lo descarta y muestra la pantalla
+  de inicio para que puedas empezar de nuevo.
+• Para escuchar música, coloca archivos .mp3 en la carpeta
+  "songs" y usa el servidor local.
+
+============================================================
+¡A construir tu legado en Chicago!
+============================================================

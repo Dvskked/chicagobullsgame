@@ -1,0 +1,9 @@
+{
+  "name": "CHICAGO Football Manager",
+  "version": "1.1.0",
+  "entry": "index.html",
+  "server": "node server.js",
+  "storage": "localStorage",
+  "music": "songs/*.mp3",
+  "credits": "Neptunzinho | Discord: andresneptunzinho"
+}
