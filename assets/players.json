@@ -1,0 +1,1632 @@
+{
+  "D1": [
+    {
+      "id": "d1-1",
+      "nombre": "Ing. lawliet",
+      "posicion": "AM",
+      "media": 88,
+      "atributos": {
+        "ataque": 93,
+        "defensa": 85,
+        "control": 90,
+        "velocidad": 90,
+        "pase": 92
+      },
+      "valor": 6195,
+      "salario": 704,
+      "edad": 18,
+      "potencial": 99,
+      "clubOriginal": "D1 - Chicago Bulls"
+    },
+    {
+      "id": "d1-2",
+      "nombre": "Gerardosky",
+      "posicion": "FWD",
+      "media": 89,
+      "atributos": {
+        "ataque": 94,
+        "defensa": 86,
+        "control": 91,
+        "velocidad": 87,
+        "pase": 89
+      },
+      "valor": 6336,
+      "salario": 712,
+      "edad": 33,
+      "potencial": 90,
+      "clubOriginal": "D1 - Chicago Bulls"
+    },
+    {
+      "id": "d1-3",
+      "nombre": "neptun (scaloni)",
+      "posicion": "GK",
+      "media": 94,
+      "atributos": {
+        "ataque": 94,
+        "defensa": 95,
+        "control": 94,
+        "velocidad": 97,
+        "pase": 91
+      },
+      "valor": 7068,
+      "salario": 752,
+      "edad": 25,
+      "potencial": 95,
+      "clubOriginal": "D1 - Chicago Bulls"
+    },
+    {
+      "id": "d1-4",
+      "nombre": "Slurpy",
+      "posicion": "DM",
+      "media": 95,
+      "atributos": {
+        "ataque": 92,
+        "defensa": 99,
+        "control": 97,
+        "velocidad": 96,
+        "pase": 99
+      },
+      "valor": 7220,
+      "salario": 760,
+      "edad": 25,
+      "potencial": 99,
+      "clubOriginal": "D1 - Chicago Bulls"
+    },
+    {
+      "id": "d1-5",
+      "nombre": "'rice",
+      "posicion": "AM",
+      "media": 89,
+      "atributos": {
+        "ataque": 94,
+        "defensa": 86,
+        "control": 91,
+        "velocidad": 88,
+        "pase": 93
+      },
+      "valor": 6336,
+      "salario": 712,
+      "edad": 27,
+      "potencial": 93,
+      "clubOriginal": "D1 - Chicago Bulls"
+    },
+    {
+      "id": "d1-6",
+      "nombre": "Piedrahita.",
+      "posicion": "DM",
+      "media": 95,
+      "atributos": {
+        "ataque": 92,
+        "defensa": 99,
+        "control": 97,
+        "velocidad": 95,
+        "pase": 99
+      },
+      "valor": 7220,
+      "salario": 760,
+      "edad": 20,
+      "potencial": 99,
+      "clubOriginal": "D1 - Chicago Bulls"
+    },
+    {
+      "id": "d1-7",
+      "nombre": "rokii",
+      "posicion": "AM",
+      "media": 88,
+      "atributos": {
+        "ataque": 93,
+        "defensa": 85,
+        "control": 90,
+        "velocidad": 88,
+        "pase": 92
+      },
+      "valor": 6195,
+      "salario": 704,
+      "edad": 27,
+      "potencial": 92,
+      "clubOriginal": "D1 - Chicago Bulls"
+    },
+    {
+      "id": "d1-8",
+      "nombre": "dingusboyyy",
+      "posicion": "AM",
+      "media": 88,
+      "atributos": {
+        "ataque": 93,
+        "defensa": 85,
+        "control": 90,
+        "velocidad": 87,
+        "pase": 92
+      },
+      "valor": 6195,
+      "salario": 704,
+      "edad": 17,
+      "potencial": 97,
+      "clubOriginal": "D1 - Chicago Bulls"
+    },
+    {
+      "id": "d1-9",
+      "nombre": "Lukass,",
+      "posicion": "AM",
+      "media": 93,
+      "atributos": {
+        "ataque": 98,
+        "defensa": 90,
+        "control": 95,
+        "velocidad": 94,
+        "pase": 97
+      },
+      "valor": 6919,
+      "salario": 744,
+      "edad": 23,
+      "potencial": 94,
+      "clubOriginal": "D1 - Chicago Bulls"
+    },
+    {
+      "id": "d1-10",
+      "nombre": "njb",
+      "posicion": "AM",
+      "media": 88,
+      "atributos": {
+        "ataque": 93,
+        "defensa": 85,
+        "control": 90,
+        "velocidad": 90,
+        "pase": 92
+      },
+      "valor": 6195,
+      "salario": 704,
+      "edad": 23,
+      "potencial": 89,
+      "clubOriginal": "D1 - Chicago Bulls"
+    },
+    {
+      "id": "d1-11",
+      "nombre": "rambo",
+      "posicion": "GK",
+      "media": 93,
+      "atributos": {
+        "ataque": 98,
+        "defensa": 90,
+        "control": 95,
+        "velocidad": 91,
+        "pase": 93
+      },
+      "valor": 6919,
+      "salario": 744,
+      "edad": 34,
+      "potencial": 99,
+      "clubOriginal": "D1 - Chicago Bulls"
+    },
+    {
+      "id": "d1-12",
+      "nombre": "Brooksby",
+      "posicion": "GK",
+      "media": 93,
+      "atributos": {
+        "ataque": 90,
+        "defensa": 98,
+        "control": 95,
+        "velocidad": 92,
+        "pase": 93
+      },
+      "valor": 6919,
+      "salario": 744,
+      "edad": 29,
+      "potencial": 99,
+      "clubOriginal": "D1 - Chicago Bulls"
+    }
+  ],
+  "D2": [
+    {
+      "id": "d2-1",
+      "nombre": "neptun (scaloni)",
+      "posicion": "GK",
+      "media": 81,
+      "atributos": {
+        "ataque": 82,
+        "defensa": 74,
+        "control": 78,
+        "velocidad": 84,
+        "pase": 87
+      },
+      "valor": 5248,
+      "salario": 648,
+      "edad": 30,
+      "potencial": 93,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-2",
+      "nombre": "sara sofia",
+      "posicion": "AM",
+      "media": 87,
+      "atributos": {
+        "ataque": 92,
+        "defensa": 84,
+        "control": 89,
+        "velocidad": 85,
+        "pase": 91
+      },
+      "valor": 6055,
+      "salario": 696,
+      "edad": 29,
+      "potencial": 94,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-3",
+      "nombre": "chelo",
+      "posicion": "DM",
+      "media": 85,
+      "atributos": {
+        "ataque": 82,
+        "defensa": 90,
+        "control": 87,
+        "velocidad": 84,
+        "pase": 89
+      },
+      "valor": 5780,
+      "salario": 680,
+      "edad": 26,
+      "potencial": 94,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-4",
+      "nombre": "Hr",
+      "posicion": "AM",
+      "media": 83,
+      "atributos": {
+        "ataque": 88,
+        "defensa": 80,
+        "control": 85,
+        "velocidad": 83,
+        "pase": 87
+      },
+      "valor": 5511,
+      "salario": 664,
+      "edad": 33,
+      "potencial": 85,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-5",
+      "nombre": "LALKK.",
+      "posicion": "DM",
+      "media": 84,
+      "atributos": {
+        "ataque": 89,
+        "defensa": 81,
+        "control": 86,
+        "velocidad": 85,
+        "pase": 84
+      },
+      "valor": 5644,
+      "salario": 672,
+      "edad": 30,
+      "potencial": 87,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-6",
+      "nombre": "shiro",
+      "posicion": "AM",
+      "media": 82,
+      "atributos": {
+        "ataque": 79,
+        "defensa": 87,
+        "control": 84,
+        "velocidad": 84,
+        "pase": 86
+      },
+      "valor": 5379,
+      "salario": 656,
+      "edad": 34,
+      "potencial": 91,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-7",
+      "nombre": "cOdeinaa",
+      "posicion": "FWD",
+      "media": 81,
+      "atributos": {
+        "ataque": 82,
+        "defensa": 77,
+        "control": 79,
+        "velocidad": 77,
+        "pase": 86
+      },
+      "valor": 5248,
+      "salario": 648,
+      "edad": 32,
+      "potencial": 82,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-8",
+      "nombre": "signal",
+      "posicion": "DM",
+      "media": 79,
+      "atributos": {
+        "ataque": 76,
+        "defensa": 84,
+        "control": 81,
+        "velocidad": 80,
+        "pase": 83
+      },
+      "valor": 4992,
+      "salario": 632,
+      "edad": 34,
+      "potencial": 90,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-9",
+      "nombre": "novio de neptun",
+      "posicion": "GK",
+      "media": 87,
+      "atributos": {
+        "ataque": 89,
+        "defensa": 87,
+        "control": 92,
+        "velocidad": 82,
+        "pase": 90
+      },
+      "valor": 6055,
+      "salario": 696,
+      "edad": 32,
+      "potencial": 95,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-10",
+      "nombre": "7",
+      "posicion": "AM",
+      "media": 87,
+      "atributos": {
+        "ataque": 90,
+        "defensa": 93,
+        "control": 85,
+        "velocidad": 81,
+        "pase": 85
+      },
+      "valor": 6055,
+      "salario": 696,
+      "edad": 19,
+      "potencial": 87,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-11",
+      "nombre": "- Disrupted ‡‡ -",
+      "posicion": "AM",
+      "media": 87,
+      "atributos": {
+        "ataque": 83,
+        "defensa": 90,
+        "control": 87,
+        "velocidad": 83,
+        "pase": 89
+      },
+      "valor": 6055,
+      "salario": 696,
+      "edad": 26,
+      "potencial": 94,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-12",
+      "nombre": "franchito",
+      "posicion": "GK",
+      "media": 83,
+      "atributos": {
+        "ataque": 88,
+        "defensa": 80,
+        "control": 85,
+        "velocidad": 85,
+        "pase": 87
+      },
+      "valor": 5511,
+      "salario": 664,
+      "edad": 29,
+      "potencial": 87,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-13",
+      "nombre": "karatek",
+      "posicion": "FWD",
+      "media": 83,
+      "atributos": {
+        "ataque": 88,
+        "defensa": 80,
+        "control": 85,
+        "velocidad": 81,
+        "pase": 83
+      },
+      "valor": 5511,
+      "salario": 664,
+      "edad": 22,
+      "potencial": 90,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-14",
+      "nombre": "login",
+      "posicion": "DM",
+      "media": 78,
+      "atributos": {
+        "ataque": 83,
+        "defensa": 75,
+        "control": 80,
+        "velocidad": 76,
+        "pase": 82
+      },
+      "valor": 4867,
+      "salario": 624,
+      "edad": 31,
+      "potencial": 82,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-15",
+      "nombre": "static",
+      "posicion": "DM",
+      "media": 87,
+      "atributos": {
+        "ataque": 84,
+        "defensa": 92,
+        "control": 89,
+        "velocidad": 86,
+        "pase": 91
+      },
+      "valor": 6055,
+      "salario": 696,
+      "edad": 26,
+      "potencial": 97,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-16",
+      "nombre": "satan",
+      "posicion": "AM",
+      "media": 95,
+      "atributos": {
+        "ataque": 92,
+        "defensa": 99,
+        "control": 97,
+        "velocidad": 93,
+        "pase": 99
+      },
+      "valor": 7220,
+      "salario": 760,
+      "edad": 18,
+      "potencial": 96,
+      "clubOriginal": "D2 - Windy City Bulls"
+    },
+    {
+      "id": "d2-17",
+      "nombre": "Wilsinky",
+      "posicion": "AM",
+      "media": 82,
+      "atributos": {
+        "ataque": 87,
+        "defensa": 79,
+        "control": 84,
+        "velocidad": 82,
+        "pase": 86
+      },
+      "valor": 5379,
+      "salario": 656,
+      "edad": 23,
+      "potencial": 86,
+      "clubOriginal": "D2 - Windy City Bulls"
+    }
+  ],
+  "D3": [
+    {
+      "id": "d3-1",
+      "nombre": "ELIMANN10(JBKAT11)",
+      "posicion": "AM",
+      "media": 77,
+      "atributos": {
+        "ataque": 82,
+        "defensa": 74,
+        "control": 79,
+        "velocidad": 77,
+        "pase": 81
+      },
+      "valor": 4743,
+      "salario": 616,
+      "edad": 30,
+      "potencial": 78,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-2",
+      "nombre": "Trx!",
+      "posicion": "FWD",
+      "media": 77,
+      "atributos": {
+        "ataque": 82,
+        "defensa": 74,
+        "control": 79,
+        "velocidad": 76,
+        "pase": 77
+      },
+      "valor": 4743,
+      "salario": 616,
+      "edad": 31,
+      "potencial": 78,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-3",
+      "nombre": "neptun (scaloni)",
+      "posicion": "GK",
+      "media": 81,
+      "atributos": {
+        "ataque": 86,
+        "defensa": 74,
+        "control": 79,
+        "velocidad": 81,
+        "pase": 86
+      },
+      "valor": 5248,
+      "salario": 648,
+      "edad": 25,
+      "potencial": 82,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-4",
+      "nombre": "minichip",
+      "posicion": "DM",
+      "media": 75,
+      "atributos": {
+        "ataque": 72,
+        "defensa": 80,
+        "control": 77,
+        "velocidad": 74,
+        "pase": 79
+      },
+      "valor": 4500,
+      "salario": 600,
+      "edad": 19,
+      "potencial": 77,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-5",
+      "nombre": "Empx",
+      "posicion": "FWD",
+      "media": 80,
+      "atributos": {
+        "ataque": 85,
+        "defensa": 77,
+        "control": 82,
+        "velocidad": 82,
+        "pase": 80
+      },
+      "valor": 5120,
+      "salario": 640,
+      "edad": 22,
+      "potencial": 86,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-6",
+      "nombre": "Londres",
+      "posicion": "AM",
+      "media": 81,
+      "atributos": {
+        "ataque": 78,
+        "defensa": 86,
+        "control": 83,
+        "velocidad": 82,
+        "pase": 85
+      },
+      "valor": 5248,
+      "salario": 648,
+      "edad": 26,
+      "potencial": 88,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-7",
+      "nombre": "v",
+      "posicion": "FWD",
+      "media": 76,
+      "atributos": {
+        "ataque": 81,
+        "defensa": 73,
+        "control": 78,
+        "velocidad": 78,
+        "pase": 76
+      },
+      "valor": 4620,
+      "salario": 608,
+      "edad": 20,
+      "potencial": 79,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-8",
+      "nombre": "barin",
+      "posicion": "AM",
+      "media": 74,
+      "atributos": {
+        "ataque": 79,
+        "defensa": 71,
+        "control": 76,
+        "velocidad": 76,
+        "pase": 78
+      },
+      "valor": 4380,
+      "salario": 592,
+      "edad": 32,
+      "potencial": 84,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-9",
+      "nombre": "Souris",
+      "posicion": "DM",
+      "media": 80,
+      "atributos": {
+        "ataque": 85,
+        "defensa": 77,
+        "control": 82,
+        "velocidad": 78,
+        "pase": 80
+      },
+      "valor": 5120,
+      "salario": 640,
+      "edad": 19,
+      "potencial": 86,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-10",
+      "nombre": "charles",
+      "posicion": "AM",
+      "media": 76,
+      "atributos": {
+        "ataque": 77,
+        "defensa": 78,
+        "control": 76,
+        "velocidad": 80,
+        "pase": 71
+      },
+      "valor": 4620,
+      "salario": 608,
+      "edad": 34,
+      "potencial": 85,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-11",
+      "nombre": "Orión 🧅",
+      "posicion": "FWD",
+      "media": 79,
+      "atributos": {
+        "ataque": 77,
+        "defensa": 76,
+        "control": 83,
+        "velocidad": 78,
+        "pase": 74
+      },
+      "valor": 4992,
+      "salario": 632,
+      "edad": 17,
+      "potencial": 91,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-12",
+      "nombre": "shoottaaa",
+      "posicion": "DM",
+      "media": 78,
+      "atributos": {
+        "ataque": 76,
+        "defensa": 72,
+        "control": 77,
+        "velocidad": 76,
+        "pase": 81
+      },
+      "valor": 4867,
+      "salario": 624,
+      "edad": 31,
+      "potencial": 90,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-13",
+      "nombre": "Six:(",
+      "posicion": "AM",
+      "media": 79,
+      "atributos": {
+        "ataque": 84,
+        "defensa": 76,
+        "control": 81,
+        "velocidad": 79,
+        "pase": 83
+      },
+      "valor": 4992,
+      "salario": 632,
+      "edad": 33,
+      "potencial": 81,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-14",
+      "nombre": "BAN",
+      "posicion": "FWD",
+      "media": 72,
+      "atributos": {
+        "ataque": 77,
+        "defensa": 69,
+        "control": 74,
+        "velocidad": 70,
+        "pase": 72
+      },
+      "valor": 4147,
+      "salario": 576,
+      "edad": 27,
+      "potencial": 84,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-15",
+      "nombre": "Paulo1kun #fw1",
+      "posicion": "DM",
+      "media": 78,
+      "atributos": {
+        "ataque": 84,
+        "defensa": 82,
+        "control": 78,
+        "velocidad": 82,
+        "pase": 84
+      },
+      "valor": 4867,
+      "salario": 624,
+      "edad": 33,
+      "potencial": 82,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-16",
+      "nombre": "SiempreUnPasoAdelante",
+      "posicion": "FWD",
+      "media": 80,
+      "atributos": {
+        "ataque": 75,
+        "defensa": 86,
+        "control": 79,
+        "velocidad": 76,
+        "pase": 75
+      },
+      "valor": 5120,
+      "salario": 640,
+      "edad": 31,
+      "potencial": 81,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-17",
+      "nombre": "coca3litros",
+      "posicion": "AM",
+      "media": 75,
+      "atributos": {
+        "ataque": 77,
+        "defensa": 79,
+        "control": 77,
+        "velocidad": 79,
+        "pase": 75
+      },
+      "valor": 4500,
+      "salario": 600,
+      "edad": 27,
+      "potencial": 80,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-18",
+      "nombre": "Vital",
+      "posicion": "DM",
+      "media": 76,
+      "atributos": {
+        "ataque": 76,
+        "defensa": 80,
+        "control": 73,
+        "velocidad": 80,
+        "pase": 81
+      },
+      "valor": 4620,
+      "salario": 608,
+      "edad": 33,
+      "potencial": 83,
+      "clubOriginal": "D3 - Bulls Nation"
+    },
+    {
+      "id": "d3-19",
+      "nombre": "barqi",
+      "posicion": "GK",
+      "media": 80,
+      "atributos": {
+        "ataque": 80,
+        "defensa": 74,
+        "control": 81,
+        "velocidad": 80,
+        "pase": 80
+      },
+      "valor": 5120,
+      "salario": 640,
+      "edad": 31,
+      "potencial": 89,
+      "clubOriginal": "D3 - Bulls Nation"
+    }
+  ],
+  "D4": [
+    {
+      "id": "d4-1",
+      "nombre": "nagi",
+      "posicion": "FWD",
+      "media": 67,
+      "atributos": {
+        "ataque": 64,
+        "defensa": 72,
+        "control": 69,
+        "velocidad": 65,
+        "pase": 71
+      },
+      "valor": 3591,
+      "salario": 536,
+      "edad": 28,
+      "potencial": 67,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-2",
+      "nombre": "neptun (scaloni)",
+      "posicion": "GK",
+      "media": 72,
+      "atributos": {
+        "ataque": 68,
+        "defensa": 68,
+        "control": 74,
+        "velocidad": 66,
+        "pase": 69
+      },
+      "valor": 4147,
+      "salario": 576,
+      "edad": 22,
+      "potencial": 79,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-3",
+      "nombre": "damasco'",
+      "posicion": "FWD",
+      "media": 71,
+      "atributos": {
+        "ataque": 76,
+        "defensa": 68,
+        "control": 73,
+        "velocidad": 70,
+        "pase": 71
+      },
+      "valor": 4032,
+      "salario": 568,
+      "edad": 34,
+      "potencial": 72,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-4",
+      "nombre": "der",
+      "posicion": "DM",
+      "media": 70,
+      "atributos": {
+        "ataque": 75,
+        "defensa": 67,
+        "control": 72,
+        "velocidad": 72,
+        "pase": 70
+      },
+      "valor": 3920,
+      "salario": 560,
+      "edad": 33,
+      "potencial": 71,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-5",
+      "nombre": "chisa",
+      "posicion": "DM",
+      "media": 71,
+      "atributos": {
+        "ataque": 68,
+        "defensa": 76,
+        "control": 73,
+        "velocidad": 69,
+        "pase": 75
+      },
+      "valor": 4032,
+      "salario": 568,
+      "edad": 18,
+      "potencial": 80,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-6",
+      "nombre": "Duque.",
+      "posicion": "GK",
+      "media": 74,
+      "atributos": {
+        "ataque": 79,
+        "defensa": 69,
+        "control": 79,
+        "velocidad": 73,
+        "pase": 72
+      },
+      "valor": 4380,
+      "salario": 592,
+      "edad": 34,
+      "potencial": 85,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-7",
+      "nombre": "ost",
+      "posicion": "AM",
+      "media": 68,
+      "atributos": {
+        "ataque": 65,
+        "defensa": 64,
+        "control": 68,
+        "velocidad": 63,
+        "pase": 72
+      },
+      "valor": 3699,
+      "salario": 544,
+      "edad": 31,
+      "potencial": 70,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-8",
+      "nombre": "catshadow",
+      "posicion": "DM",
+      "media": 61,
+      "atributos": {
+        "ataque": 58,
+        "defensa": 66,
+        "control": 63,
+        "velocidad": 61,
+        "pase": 65
+      },
+      "valor": 2976,
+      "salario": 488,
+      "edad": 19,
+      "potencial": 72,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-9",
+      "nombre": "bahi mowellk",
+      "posicion": "DM",
+      "media": 75,
+      "atributos": {
+        "ataque": 76,
+        "defensa": 77,
+        "control": 74,
+        "velocidad": 74,
+        "pase": 81
+      },
+      "valor": 4500,
+      "salario": 600,
+      "edad": 20,
+      "potencial": 85,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-10",
+      "nombre": "se",
+      "posicion": "GK",
+      "media": 71,
+      "atributos": {
+        "ataque": 76,
+        "defensa": 68,
+        "control": 73,
+        "velocidad": 72,
+        "pase": 71
+      },
+      "valor": 4032,
+      "salario": 568,
+      "edad": 24,
+      "potencial": 75,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-11",
+      "nombre": "Juanen 寂",
+      "posicion": "AM",
+      "media": 73,
+      "atributos": {
+        "ataque": 70,
+        "defensa": 78,
+        "control": 75,
+        "velocidad": 71,
+        "pase": 77
+      },
+      "valor": 4263,
+      "salario": 584,
+      "edad": 21,
+      "potencial": 78,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-12",
+      "nombre": "HERO47",
+      "posicion": "DM",
+      "media": 75,
+      "atributos": {
+        "ataque": 72,
+        "defensa": 80,
+        "control": 77,
+        "velocidad": 75,
+        "pase": 79
+      },
+      "valor": 4500,
+      "salario": 600,
+      "edad": 31,
+      "potencial": 83,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-13",
+      "nombre": "El fara",
+      "posicion": "FWD",
+      "media": 71,
+      "atributos": {
+        "ataque": 76,
+        "defensa": 68,
+        "control": 73,
+        "velocidad": 73,
+        "pase": 71
+      },
+      "valor": 4032,
+      "salario": 568,
+      "edad": 24,
+      "potencial": 79,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-14",
+      "nombre": "DILAN,KR",
+      "posicion": "DM",
+      "media": 70,
+      "atributos": {
+        "ataque": 75,
+        "defensa": 67,
+        "control": 72,
+        "velocidad": 71,
+        "pase": 70
+      },
+      "valor": 3920,
+      "salario": 560,
+      "edad": 31,
+      "potencial": 74,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-15",
+      "nombre": "stban",
+      "posicion": "DM",
+      "media": 71,
+      "atributos": {
+        "ataque": 68,
+        "defensa": 76,
+        "control": 72,
+        "velocidad": 69,
+        "pase": 73
+      },
+      "valor": 4032,
+      "salario": 568,
+      "edad": 18,
+      "potencial": 80,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-16",
+      "nombre": ".d1ck",
+      "posicion": "GK",
+      "media": 79,
+      "atributos": {
+        "ataque": 84,
+        "defensa": 76,
+        "control": 81,
+        "velocidad": 78,
+        "pase": 79
+      },
+      "valor": 4992,
+      "salario": 632,
+      "edad": 31,
+      "potencial": 80,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-17",
+      "nombre": "plastic",
+      "posicion": "AM",
+      "media": 75,
+      "atributos": {
+        "ataque": 80,
+        "defensa": 72,
+        "control": 77,
+        "velocidad": 73,
+        "pase": 79
+      },
+      "valor": 4500,
+      "salario": 600,
+      "edad": 23,
+      "potencial": 84,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-18",
+      "nombre": "Mx",
+      "posicion": "FWD",
+      "media": 69,
+      "atributos": {
+        "ataque": 70,
+        "defensa": 70,
+        "control": 69,
+        "velocidad": 70,
+        "pase": 69
+      },
+      "valor": 3808,
+      "salario": 552,
+      "edad": 31,
+      "potencial": 69,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-19",
+      "nombre": "meci",
+      "posicion": "FWD",
+      "media": 74,
+      "atributos": {
+        "ataque": 79,
+        "defensa": 71,
+        "control": 76,
+        "velocidad": 74,
+        "pase": 74
+      },
+      "valor": 4380,
+      "salario": 592,
+      "edad": 33,
+      "potencial": 80,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-20",
+      "nombre": "coca3litros",
+      "posicion": "DM",
+      "media": 68,
+      "atributos": {
+        "ataque": 73,
+        "defensa": 65,
+        "control": 72,
+        "velocidad": 65,
+        "pase": 64
+      },
+      "valor": 3699,
+      "salario": 544,
+      "edad": 29,
+      "potencial": 74,
+      "clubOriginal": "D4 - Dynasti96"
+    },
+    {
+      "id": "d4-21",
+      "nombre": "raz.",
+      "posicion": "FWD",
+      "media": 81,
+      "atributos": {
+        "ataque": 86,
+        "defensa": 78,
+        "control": 83,
+        "velocidad": 80,
+        "pase": 81
+      },
+      "valor": 5248,
+      "salario": 648,
+      "edad": 21,
+      "potencial": 92,
+      "clubOriginal": "D4 - Dynasti96"
+    }
+  ],
+  "ACADEMIA": [
+    {
+      "id": "academia-1",
+      "nombre": "Napdose :}",
+      "posicion": "AM",
+      "media": 68,
+      "atributos": {
+        "ataque": 70,
+        "defensa": 63,
+        "control": 73,
+        "velocidad": 69,
+        "pase": 64
+      },
+      "valor": 3699,
+      "salario": 544,
+      "edad": 25,
+      "potencial": 80,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-2",
+      "nombre": "l√",
+      "posicion": "AM",
+      "media": 68,
+      "atributos": {
+        "ataque": 73,
+        "defensa": 65,
+        "control": 70,
+        "velocidad": 67,
+        "pase": 72
+      },
+      "valor": 3699,
+      "salario": 544,
+      "edad": 29,
+      "potencial": 75,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-3",
+      "nombre": "Mateoski",
+      "posicion": "FWD",
+      "media": 69,
+      "atributos": {
+        "ataque": 74,
+        "defensa": 62,
+        "control": 68,
+        "velocidad": 76,
+        "pase": 65
+      },
+      "valor": 3808,
+      "salario": 552,
+      "edad": 25,
+      "potencial": 72,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-4",
+      "nombre": "usi",
+      "posicion": "DM",
+      "media": 62,
+      "atributos": {
+        "ataque": 59,
+        "defensa": 67,
+        "control": 64,
+        "velocidad": 64,
+        "pase": 66
+      },
+      "valor": 3075,
+      "salario": 496,
+      "edad": 32,
+      "potencial": 64,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-5",
+      "nombre": "neptun (scaloni)",
+      "posicion": "GK",
+      "media": 68,
+      "atributos": {
+        "ataque": 70,
+        "defensa": 67,
+        "control": 64,
+        "velocidad": 64,
+        "pase": 64
+      },
+      "valor": 3699,
+      "salario": 544,
+      "edad": 22,
+      "potencial": 74,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-6",
+      "nombre": "Nick.,",
+      "posicion": "GK",
+      "media": 68,
+      "atributos": {
+        "ataque": 65,
+        "defensa": 73,
+        "control": 70,
+        "velocidad": 66,
+        "pase": 68
+      },
+      "valor": 3699,
+      "salario": 544,
+      "edad": 17,
+      "potencial": 72,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-7",
+      "nombre": "azel",
+      "posicion": "FWD",
+      "media": 69,
+      "atributos": {
+        "ataque": 71,
+        "defensa": 71,
+        "control": 70,
+        "velocidad": 66,
+        "pase": 68
+      },
+      "valor": 3808,
+      "salario": 552,
+      "edad": 22,
+      "potencial": 81,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-8",
+      "nombre": "MicroWest🎲",
+      "posicion": "DM",
+      "media": 61,
+      "atributos": {
+        "ataque": 60,
+        "defensa": 54,
+        "control": 58,
+        "velocidad": 56,
+        "pase": 56
+      },
+      "valor": 2976,
+      "salario": 488,
+      "edad": 19,
+      "potencial": 69,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-9",
+      "nombre": "roony",
+      "posicion": "FWD",
+      "media": 62,
+      "atributos": {
+        "ataque": 67,
+        "defensa": 59,
+        "control": 64,
+        "velocidad": 61,
+        "pase": 62
+      },
+      "valor": 3075,
+      "salario": 496,
+      "edad": 31,
+      "potencial": 63,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-10",
+      "nombre": "Acercandra",
+      "posicion": "GK",
+      "media": 60,
+      "atributos": {
+        "ataque": 61,
+        "defensa": 64,
+        "control": 63,
+        "velocidad": 58,
+        "pase": 60
+      },
+      "valor": 2880,
+      "salario": 480,
+      "edad": 27,
+      "potencial": 64,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-11",
+      "nombre": "W'lly",
+      "posicion": "FWD",
+      "media": 66,
+      "atributos": {
+        "ataque": 71,
+        "defensa": 63,
+        "control": 68,
+        "velocidad": 67,
+        "pase": 66
+      },
+      "valor": 3484,
+      "salario": 528,
+      "edad": 21,
+      "potencial": 67,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-12",
+      "nombre": "Banjo",
+      "posicion": "GK",
+      "media": 69,
+      "atributos": {
+        "ataque": 69,
+        "defensa": 64,
+        "control": 66,
+        "velocidad": 73,
+        "pase": 69
+      },
+      "valor": 3808,
+      "salario": 552,
+      "edad": 32,
+      "potencial": 74,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-13",
+      "nombre": "Sk4rv",
+      "posicion": "FWD",
+      "media": 64,
+      "atributos": {
+        "ataque": 66,
+        "defensa": 58,
+        "control": 68,
+        "velocidad": 68,
+        "pase": 68
+      },
+      "valor": 3276,
+      "salario": 512,
+      "edad": 23,
+      "potencial": 64,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-14",
+      "nombre": "stban",
+      "posicion": "DM",
+      "media": 71,
+      "atributos": {
+        "ataque": 68,
+        "defensa": 76,
+        "control": 72,
+        "velocidad": 69,
+        "pase": 73
+      },
+      "valor": 4032,
+      "salario": 568,
+      "edad": 22,
+      "potencial": 75,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-15",
+      "nombre": "Cicade",
+      "posicion": "DM",
+      "media": 67,
+      "atributos": {
+        "ataque": 64,
+        "defensa": 72,
+        "control": 69,
+        "velocidad": 67,
+        "pase": 71
+      },
+      "valor": 3591,
+      "salario": 536,
+      "edad": 29,
+      "potencial": 72,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-16",
+      "nombre": "snless",
+      "posicion": "GK",
+      "media": 64,
+      "atributos": {
+        "ataque": 61,
+        "defensa": 69,
+        "control": 66,
+        "velocidad": 65,
+        "pase": 68
+      },
+      "valor": 3276,
+      "salario": 512,
+      "edad": 17,
+      "potencial": 67,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-17",
+      "nombre": "Rakzz",
+      "posicion": "GK",
+      "media": 68,
+      "atributos": {
+        "ataque": 73,
+        "defensa": 65,
+        "control": 70,
+        "velocidad": 70,
+        "pase": 72
+      },
+      "valor": 3699,
+      "salario": 544,
+      "edad": 34,
+      "potencial": 75,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-18",
+      "nombre": "Ale",
+      "posicion": "AM",
+      "media": 69,
+      "atributos": {
+        "ataque": 74,
+        "defensa": 66,
+        "control": 71,
+        "velocidad": 67,
+        "pase": 73
+      },
+      "valor": 3808,
+      "salario": 552,
+      "edad": 19,
+      "potencial": 69,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-19",
+      "nombre": "dzq,n’},",
+      "posicion": "FWD",
+      "media": 69,
+      "atributos": {
+        "ataque": 75,
+        "defensa": 62,
+        "control": 67,
+        "velocidad": 63,
+        "pase": 72
+      },
+      "valor": 3591,
+      "salario": 536,
+      "edad": 29,
+      "potencial": 69,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-20",
+      "nombre": "Dsknator .w.",
+      "posicion": "GK",
+      "media": 68,
+      "atributos": {
+        "ataque": 66,
+        "defensa": 65,
+        "control": 65,
+        "velocidad": 64,
+        "pase": 73
+      },
+      "valor": 3699,
+      "salario": 544,
+      "edad": 32,
+      "potencial": 76,
+      "clubOriginal": "D Academia - Bulls Academy"
+    },
+    {
+      "id": "academia-21",
+      "nombre": "lorito",
+      "posicion": "DM",
+      "media": 65,
+      "atributos": {
+        "ataque": 63,
+        "defensa": 64,
+        "control": 65,
+        "velocidad": 64,
+        "pase": 73
+      },
+      "valor": 3699,
+      "salario": 544,
+      "edad": 32,
+      "potencial": 76,
+      "clubOriginal": "D Academia - Bulls Academy"
+    }
+  ]
+}
